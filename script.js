@@ -3,12 +3,12 @@ window.allDBsData = {
    
 "zaj": [
  //video
-{ "id": 1, "type": "video", "title": "LoveHerFeet - Creepy Stepdad Stepdaughter", "image": "https://up6.cc/2026/05/177876650039191.jpg", "contentURL": "https://drive.google.com/file/d/1JIapsW3ubHNY-AimREIX_K_dzKWyfMtZ/view?usp=drivesdk", "labels": "Feet, milf", "duration": "11:30" },
+{ "id": 1, "type": "video", "title": "LoveHerFeet - Creepy Stepdad Stepdaughter", "image": "https://up6.cc/2026/05/177876650039191.jpg", "contentURL": "https://files.catbox.moe/wsdzyx.mp4", "labels": "Feet, milf", "duration": "30:46" },
 { "id": 2, "type": "video", "title": "Busy Mercedes Carrera takes time off work for a good fuck", "image": "https://a.top4top.io/p_37535ta9f0.jpg", "contentURL": "https://drive.google.com/file/d/1Ira7gOoh78MxUlYApl3Rsf_BpUbe_V0H/view?usp=drivesdk", "labels": "hardcore, blowjob, creampie, milf", "duration": "00:00" },
 { "id": 3, "type": "video", "title": "Perfect pink pussy babe gets an intense orgasm and unforgettable CREAMPIE", "image": "https://files.catbox.moe/jxijpj.jpg", "contentURL": "https://drive.google.com/file/d/1FF6hq54P1xsK4FXu1ZucQ3enAWAQ5Wkd/view?usp=drivesdk", "labels": "Pink Pussy, blowjob, creampie, milf", "duration": "00:00" },
 { "id": 4, "type": "video", "title": "Slut Teenie Step Sis Makes A Move On her Older Stepbro", "image": "https://f.top4top.io/p_3755ozfb71.jpg", "contentURL": "https://drive.google.com/file/d/1IbfZ0GQlkjcsu5LAyWFCAreJ46ngowXo/view?usp=drivesdk", "labels": "Stepbrohardcore, blowjob, creampie, milf", "duration": "00:00" },
 { "id": 6, "type": "video", "title": "She_s going on a Date on Valentine_s Day. what could go Wrong", "image": "https://up6.cc/2026/05/177876642332791.png", "contentURL": "https://drive.google.com/file/d/1iMFSYhVyBh-cO7qn2r9WrFgKwxaKZTi8/view?usp=drivesdk", "labels": "blowjob, creampie, milf", "duration": "00:00" },
-{ "id": 5, "type": "video", "title": "Horny Teen Eats Creampie from her Asian Girlfriend_s Pussy after Hard and Rough Sex with Sugar Daddy", "image": "https://i.top4top.io/p_37897jkwi1.jpg ", "contentURL": "https://drive.google.com/file/d/1KLnk9AQ3nC1JHaA2nTC1-wC6FlH8pfou/view?usp=sharing ", "labels": "", "duration": "00:00" },
+{ "id": 5, "type": "video", "title": "Horny Teen Eats Creampie from her Asian Girlfriend_s Pussy after Hard and Rough Sex with Sugar Daddy", "image": "https://i.top4top.io/p_37897jkwi1.jpg ", "contentURL": "https://files.catbox.moe/yl1dsh.mp4", "labels": "", "duration": "30:46" },
 { "id": 7, "type": "video", "title": "Genuine Home Fucking Video", "image": "https://b.top4top.io/p_37890950m1.jpg", "contentURL": "https://drive.google.com/file/d/1GHB4iPeXQFi6ATsJ8trGRm2VfB9u9iCu/view?usp=sharing", "labels": "", "duration": "00:00" },
 { "id": 8, "type": "video", "title": "Sunny Shine Enjoys Unforgettable First anal Sex ", "image": "https://b.top4top.io/p_37897fhpa1.png", "contentURL": "https://drive.google.com/file/d/1IzO67I4rOeulqdMJJrUjJzlXfhZdMxxJ/view?usp=sharing", "labels": "", "duration": "00:00" },
 { "id": 9, "type": "video", "title": "Amateur Latina Squirts Hard while Straining", "image": "https://j.top4top.io/p_3789pljv32.jpg", "contentURL": "https://drive.google.com/file/d/1X6yeQPWBrkhDV9a5F2dHZUOVNys2cZMS/view?usp=sharing", "labels": "", "duration": "00:00" },
@@ -52,7 +52,7 @@ window.allDBsData = {
 { "id": 22, "type": "image", "title": "Petite Girls Lilu Moon Mina Cougar Or Kitten Moms Bang Teens Hairy Pussy Fucking Girl With Big Ass Hole  Lilu Moon-Mina Moon-Jordi El Nino Polla", "image": "https://up6.cc/2026/05/177902798820221.jpg", "contentURL": "https://files.catbox.moe/8saj01.jpg", "redirectUrl": "https://www.peekvids.com/v/petite-girls-lilu-moon-mina-cougar-or-kitten-moms-bang-teens-hairy-pussy-fucking-girl-with-big-ass-hole/44PAH0Vgg3R", "labels": "  blowjobs , natural tits, doggystyle, brunette, cowgirl, cumshot, small tits, threesome, anal, big ass, interview   ", "duration": "00:00" },
 { "id": 23, "type": "image", "title": "Paige Owens Gia Derza Ricky Johnson", "image": "https://files.catbox.moe/es69j7.jpg", "contentURL": "https://files.catbox.moe/es69j7.jpg", "redirectUrl": "https://www.playvids.com/0fzcTfKE7ZA/vf/balls-and-wrist-deep-anal-threeway-with-gia-derza-and-paige-owens", "labels": " blowjobs, natural tits, doggystyle, brunette, cowgirl, cumshot, small tits, threesome, anal, big ass, interview", "duration": "00:00" }, 
 { "id": 24, "type": "image", "title": "nesa video 5", "image": "https://h.top4top.io/p_3790ira7n10.jpg", "contentURL": "", "labels": "", "duration": "00:00" },
-{ "id": 25, "type": "image", "title": "nesa video 5", "image": "https://f.top4top.io/p_37903ri1s8.gif", "contentURL": "https://f.top4top.io/p_37903ri1s8.gif", "labels": "", "duration": "00:00" },
+{ "id": 25, "type": "image", "title": "nesa video 5", "image": "https://f.top4top.io/p_37903ri1s8.gif", "contentURL": "", "labels": "", "duration": "00:00" },
 { "id": 26, "type": "image", "title": "nesa video 5", "image": "https://d.top4top.io/p_3790j1beu7.jpg", "contentURL": "", "labels": "", "duration": "00:00" },
 { "id": 27, "type": "image", "title": "nesa video 5", "image": "https://c.top4top.io/p_379066knm6.png", "contentURL": "", "labels": "", "duration": "00:00" },
 { "id": 28, "type": "image", "title": "nesa video 28", "image": "https://b.top4top.io/p_3790ggis35.png", "contentURL": "", "labels": "" },
@@ -302,18 +302,12 @@ function sanitizeItemUrls(item) {
     if (item.contentURL) {
         item.contentURL = extractRealUrl(item.contentURL);
         if (item.contentURL && item.contentURL.includes('drive.google.com')) {
-            // 🔥 تحويل رابط Google Drive إلى رابط مباشر قابل للتشغيل
-            const match = item.contentURL.match(/\/d\/(.+?)\/view/);
-            if (match) {
-                const fileId = match[1];
-                item.contentURL = `https://drive.google.com/uc?export=download&id=${fileId}`;
-            } else {
-                item.contentURL = getGoogleDriveEmbedLink(item.contentURL);
-            }
+            item.contentURL = getGoogleDriveEmbedLink(item.contentURL);
         }
     }
     return item;
 }
+
 const allCategories = [
     "Lesbian", "Asian", "MILF", "Doggystyle", "Ebony", "Gay", "Teen", "Repairman", 
     "Pizza Delivery", "Amateur", "Big Cock", "Softcore", "Nurse", "Handjob", 
@@ -1711,53 +1705,75 @@ function createCard(p) {
         </div>
     `;
 }
+
+// ================ دوال المشغل ================
 function playVideo(p) {
-    // إذا كان العنصر يحتوي على رابط إعادة توجيه خارجي
+        // إذا كان العنصر يحتوي على رابط إعادة توجيه خارجي (لأي نوع)
     if (p.redirectUrl) {
         window.open(p.redirectUrl, '_blank');
         return;
     }
-
+    // إذا كان العنصر من نوع live → افتح الرابط الخارجي مباشرة
+    
+    
     window.history.pushState({view: 'player', videoId: p.id}, "");
     currentPlayingId = p.id;
     sessionStorage.setItem('currentPlayingId', p.id);
-    sessionStorage.setItem('lastPlayingSource', currentSourceKey);
-    sessionStorage.setItem('lastPlayingSourceName', currentSourceName);
-    sessionStorage.setItem('scrollBeforePlayer', window.pageYOffset || document.documentElement.scrollTop);
-
+sessionStorage.setItem('lastPlayingSource', currentSourceKey);
+sessionStorage.setItem('lastPlayingSourceName', currentSourceName);
+sessionStorage.setItem('scrollBeforePlayer', window.pageYOffset || document.documentElement.scrollTop);
     const win = document.getElementById('playWindow');
     const vArea = document.getElementById('vArea');
     win.classList.remove('hidden');
     win.style.display = 'block';
     setTimeout(() => {
-        const playerTop = document.getElementById('playWindow');
-        if (playerTop) playerTop.scrollTo({ top: 0, behavior: 'smooth' });
-    }, 100);
+    const playerTop = document.getElementById('playWindow');
+    if (playerTop) {
+        playerTop.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+}, 100);
     document.body.style.overflow = 'hidden';
     win.setAttribute('dir', 'rtl');
-
     const titleElement = document.getElementById('vTitle');
     if (titleElement) titleElement.innerText = p.title;
-
-    // التصنيفات
-    let tagsContainer = document.getElementById('playerTagsContainer');
-    if (!tagsContainer) {
-        tagsContainer = document.createElement('div');
-        tagsContainer.id = 'playerTagsContainer';
-        tagsContainer.style.cssText = `display:flex; flex-wrap:wrap; gap:8px; margin:12px 0 8px; padding:8px 0; border-bottom:1px solid rgba(255,255,255,0.1);`;
-        if (titleElement) titleElement.parentNode.insertBefore(tagsContainer, titleElement.nextSibling);
-    }
+    const oldTags = document.getElementById('playerTagsContainer');
+    if (oldTags) oldTags.remove();
+    const tagsContainer = document.createElement('div');
+    tagsContainer.id = 'playerTagsContainer';
+    tagsContainer.style.cssText = `
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        margin: 12px 0 8px 0;
+        padding: 8px 0;
+        border-bottom: 1px solid rgba(255,255,255,0.1);
+    `;
     const itemTags = getItemTags(p);
-    tagsContainer.innerHTML = itemTags.length ? `<span style="color:#be185d;font-size:0.75rem;font-weight:bold;">التصنيفات:</span> ${itemTags.map(tag => `<button onclick="filterByTag('${tag.replace(/'/g, "\\'")}')" style="background:rgba(190,24,93,0.2); border:1px solid rgba(190,24,93,0.5); color:#ffb3d9; padding:4px 12px; border-radius:20px; font-size:0.7rem; cursor:pointer;">#${tag}</button>`).join('')}` : '';
-
-    // أزرار التفاعل
-    let actionsContainer = document.querySelector('.action-buttons-container');
-    if (!actionsContainer) {
-        actionsContainer = document.createElement('div');
-        actionsContainer.className = 'action-buttons-container';
-        actionsContainer.style.cssText = `display:flex; flex-wrap:wrap; gap:12px; margin:10px 0; padding:10px 0; border-top:1px solid rgba(255,255,255,0.1); border-bottom:1px solid rgba(255,255,255,0.1);`;
-        tagsContainer.parentNode.insertBefore(actionsContainer, tagsContainer.nextSibling);
+    if (itemTags.length > 0) {
+        tagsContainer.innerHTML = `
+            <span style="color: #be185d; font-size: 0.75rem; font-weight: bold;">التصنيفات:</span>
+            ${itemTags.map(tag => `
+                <button onclick="filterByTag('${tag.replace(/'/g, "\\'")}')" 
+                        style="background: rgba(190,24,93,0.2); 
+                               border: 1px solid rgba(190,24,93,0.5);
+                               color: #ffb3d9;
+                               padding: 4px 12px;
+                               border-radius: 20px;
+                               font-size: 0.7rem;
+                               cursor: pointer;">
+                    #${tag}
+                </button>
+            `).join('')}
+        `;
     }
+    const vTitleElement = document.getElementById('vTitle');
+    if (vTitleElement && tagsContainer.innerHTML) {
+        vTitleElement.parentNode.insertBefore(tagsContainer, vTitleElement.nextSibling);
+    }
+    const oldActions = document.querySelector('.action-buttons-container');
+    if (oldActions) oldActions.remove();
+    const actionsContainer = document.createElement('div');
+    actionsContainer.className = 'action-buttons-container';
     actionsContainer.innerHTML = `
         <button class="action-btn" onclick="toggleFavFromPlayer(event, ${p.id})">❤️ مفضلة</button>
         <button class="action-btn" onclick="toggleLike(event, ${p.id})">👍 إعجاب</button>
@@ -1765,191 +1781,246 @@ function playVideo(p) {
         <button class="action-btn" onclick="toggleWatchLater(event, ${p.id})">⏱️ لاحقاً</button>
         <button class="action-btn" onclick="shareVideo(event, ${p.id}, '${p.title.replace(/'/g, "\\'")}')">📤 مشاركة</button>
     `;
-
+    if (tagsContainer.innerHTML) {
+        tagsContainer.parentNode.insertBefore(actionsContainer, tagsContainer.nextSibling);
+    }
     vArea.innerHTML = '';
-    vArea.classList.remove('image-mode');
+    vArea.classList.remove('portrait-media', 'landscape-media');
     vArea.style.paddingBottom = '56.25%';
     vArea.style.position = 'relative';
-
-    // ========== معالجة أنواع المحتوى ==========
+    function isHardToEmbed(url) {
+        const blockedDomains = ['oxax.tv'];
+        return blockedDomains.some(domain => url.includes(domain));
+    }
     if (p.type === 'live') {
-        let embedURL = p.contentURL;
-        if (embedURL.includes('youtube.com/watch')) {
-            const videoId = embedURL.split('v=')[1]?.split('&')[0];
-            embedURL = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
-        } else if (embedURL.includes('youtu.be')) {
-            const videoId = embedURL.split('/').pop();
-            embedURL = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
-        } else if (embedURL.includes('twitch.tv')) {
-            const channel = embedURL.split('twitch.tv/')[1];
-            embedURL = `https://player.twitch.tv/?channel=${channel}&parent=${location.hostname}`;
-        }
-        const blockedDomains = ['oxax.tv', 'example.com'];
-        if (blockedDomains.some(domain => embedURL.includes(domain))) {
+    let embedURL = p.contentURL;
+    // معالجة يوتيوب وتويش...
+    if (embedURL.includes('youtube.com/watch')) {
+        const videoId = embedURL.split('v=')[1]?.split('&')[0];
+        embedURL = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+    } else if (embedURL.includes('youtu.be')) {
+        const videoId = embedURL.split('/').pop();
+        embedURL = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+    } else if (embedURL.includes('twitch.tv')) {
+        const channel = embedURL.split('twitch.tv/')[1];
+        embedURL = `https://player.twitch.tv/?channel=${channel}&parent=${location.hostname}`;
+    }
+
+    // إذا كان الرابط mp4، نتعامل معه كفيديو
+    if (embedURL.match(/\.mp4$/i)) {
+        p.type = 'video';
+        playVideo(p);
+        return;
+    }
+
+    // المواقع التي لا يمكن تضمينها (تفتح في نافذة جديدة)
+    const blockedDomains = ['oxax.tv', 'example.com']; // أضف أي نطاق تريده
+    const isBlocked = blockedDomains.some(domain => embedURL.includes(domain));
+
+    if (isBlocked) {
+        // افتح الرابط في نافذة جديدة
+        window.open(p.contentURL, '_blank');
+        // لا نغلق المشغل هنا لأن ذلك قد يتعارض مع فتح النافذة
+        // لكننا سنترك المشغل مفتوحاً (يمكن إغلاقه لاحقاً)
+        // تحديث الاقتراحات
+        setTimeout(() => {
+            updateRecSuggestions();
+            updateSideSuggestions();
+            updatePlayerStats();
+            updateFooterStats();
+        }, 100);
+        return;
+    }
+
+    // عرض iframe عادي
+    vArea.innerHTML = `
+        <iframe 
+            style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" 
+            src="${embedURL}" 
+            allow="autoplay; fullscreen; encrypted-media"
+            allowfullscreen>
+        </iframe>
+    `;
+}else if (p.type === 'video') {
+        if (p.contentURL.includes('oxax.tv')) {
             window.open(p.contentURL, '_blank');
-            setTimeout(() => { updateRecSuggestions(); updateSideSuggestions(); updateFooterStats(); }, 100);
+            // تحديث الاقتراحات
+            setTimeout(() => {
+                updateRecSuggestions();
+                updateSideSuggestions();
+                updatePlayerStats();
+                updateFooterStats();
+            }, 100);
             return;
         }
-        vArea.innerHTML = `<iframe style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" src="${embedURL}" allow="autoplay; fullscreen; encrypted-media" allowfullscreen></iframe>`;
-    }
-    else if (p.type === 'video') {
-        let videoUrl = p.contentURL;
-        let isGoogleDrive = videoUrl.includes('drive.google.com');
-
-        // ===== حالة Google Drive: استخدم iframe التضميني (لا عناصر تحكم مكررة) =====
-        if (isGoogleDrive) {
-            // استخرج معرف الملف
-            let fileId = null;
-            let match = videoUrl.match(/\/d\/(.+?)\/view/);
-            if (!match) match = videoUrl.match(/id=(.+?)(&|$)/);
-            if (match) fileId = match[1];
-
-            if (fileId) {
-                const embedUrl = `https://drive.google.com/file/d/${fileId}/preview`;
-                vArea.innerHTML = `<iframe style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" src="${embedUrl}" allow="autoplay; fullscreen" allowfullscreen></iframe>`;
-            } else {
-                vArea.innerHTML = `<div style="text-align:center;padding:20px;color:red;">❌ رابط Google Drive غير صالح</div>`;
-            }
-        }
-        // ===== حالة روابط MP4 المباشرة: استخدم عنصر video مع controls فقط (بدون initAdvancedPlayer) =====
-        else if (videoUrl.match(/\.mp4$/i) || videoUrl.includes('.mp4?')) {
+        if (p.contentURL.includes('.mp4')) {
             vArea.innerHTML = `
-                <div style="position:absolute;top:0;left:0;width:100%;height:100%;background:black;">
-                    <video id="mainVideo" style="width:100%;height:100%;object-fit:contain;" controls autoplay>
-                        <source src="${videoUrl}" type="video/mp4">
-                        المتصفح لا يدعم الفيديو.
+                <div id="playerContainer" 
+                     style="position:absolute;top:0;left:0;width:100%;height:100%;background:black;">
+                    <video id="mainVideo" 
+                           style="width:100%;height:100%;object-fit:contain;" 
+                           autoplay>
+                        <source src="${p.contentURL}" type="video/mp4">
                     </video>
+                    
+                    <div id="centerPlayBtn" style="
+                        position:absolute;
+                        top:50%;
+                        left:50%;
+                        transform:translate(-50%,-50%);
+                        width:70px;
+                        height:70px;
+                        background:rgba(0,0,0,0.7);
+                        border-radius:50%;
+                        display:flex;
+                        align-items:center;
+                        justify-content:center;
+                        cursor:pointer;
+                        z-index:10;
+                        backdrop-filter:blur(4px);
+                        border:2px solid rgba(255,255,255,0.3);
+                        transition:all 0.2s ease;
+                    ">
+                        <svg width="40" height="40" viewBox="0 0 24 24" fill="white">
+                            <path d="M8 5v14l11-7z"/>
+                        </svg>
+                    </div>
+                    
+                    <div id="customControls" 
+                         style="position:absolute;bottom:0;left:0;width:100%;
+                                background:linear-gradient(to top, rgba(0,0,0,0.8), rgba(0,0,0,0));
+                                padding:12px 15px;
+                                display:flex;
+                                align-items:center;
+                                gap:12px;
+                                opacity:0;
+                                transition:opacity 0.3s ease;">
+                        <button id="playPauseBtn" style="background:none;border:none;color:white;font-size:20px;cursor:pointer;">⏸️</button>
+                        <span id="currentTime" style="color:white;font-size:12px;font-family:monospace;">00:00</span>
+                        <input id="progressBar" type="range" value="0" min="0" max="100"
+                               style="flex:1;height:4px;border-radius:2px;background:rgba(255,255,255,0.3);">
+                        <span id="durationTime" style="color:white;font-size:12px;font-family:monospace;">00:00</span>
+                        <button id="fullscreenBtn" style="background:none;border:none;color:white;font-size:20px;cursor:pointer;">⛶</button>
+                    </div>
                 </div>
             `;
+            const playerContainer = document.getElementById('playerContainer');
+            const controls = document.getElementById('customControls');
+            let controlsTimeout;
+            const showControls = () => {
+                controls.style.opacity = '1';
+                clearTimeout(controlsTimeout);
+                controlsTimeout = setTimeout(() => {
+                    if (!playerContainer.matches(':hover') && !controls.matches(':hover')) {
+                        controls.style.opacity = '0';
+                    }
+                }, 2000);
+            };
+            playerContainer.addEventListener('mousemove', showControls);
+            playerContainer.addEventListener('touchstart', showControls);
+            playerContainer.addEventListener('mouseleave', () => {
+                controlsTimeout = setTimeout(() => {
+                    controls.style.opacity = '0';
+                }, 1000);
+            });
+            showControls();
+            initPlayer();
+            // تحديث الاقتراحات
+            setTimeout(() => {
+                updateRecSuggestions();
+                updateSideSuggestions();
+                updatePlayerStats();
+                updateFooterStats();
+            }, 100);
+            return;
         }
-        // ===== أي رابط آخر: حاول iframe عادي =====
-        else {
-            vArea.innerHTML = `<iframe style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" src="${videoUrl}" allow="autoplay; fullscreen" allowfullscreen></iframe>`;
-        }
-    }
-    else if (p.type === 'image' || p.type === 'gif') {
-        vArea.style.paddingBottom = '0';
-        vArea.classList.add('image-mode');
-        const mediaUrl = (p.type === 'gif' && p.image) ? p.image : p.contentURL;
-        vArea.innerHTML = `
-            <div style="display:flex; align-items:center; justify-content:center; width:100%; height:100%; background:black;">
-                <img src="${mediaUrl}" style="max-width:100%; max-height:85vh; width:auto; height:auto; object-fit:contain; display:block; margin:0 auto; border-radius:12px;" alt="${p.title}">
-            </div>
-        `;
-    }
-
-    // تحديث الاقتراحات
+// داخل playVideo، بعد التحقق من p.type === 'video'
+if (p.contentURL.includes('drive.google.com')) {
+    const embedUrl = getGoogleDriveEmbedLink(p.contentURL);
+    vArea.innerHTML = `
+        <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" 
+                src="${embedUrl}" 
+                allow="autoplay; fullscreen; encrypted-media"
+                allowfullscreen>
+        </iframe>
+    `;
+    // ✅ إضافة تحديث الاقتراحات قبل الخروج
     setTimeout(() => {
         updateRecSuggestions();
         updateSideSuggestions();
+        updatePlayerStats();
         updateFooterStats();
     }, 150);
+    return;
 }
-function initAdvancedPlayer(videoElement, containerId) {
-    const video = videoElement;
-    const container = document.getElementById(containerId);
-    if (!video || !container) return;
 
-    let controls = container.querySelector('.custom-controls');
-    if (!controls) {
-        controls = document.createElement('div');
-        controls.className = 'custom-controls';
-        controls.style.cssText = `
-            position: absolute;
-            bottom: 0;
-            left: 0;
-            width: 100%;
-            background: linear-gradient(to top, rgba(0,0,0,0.8), rgba(0,0,0,0));
-            padding: 12px 16px;
-            display: flex;
-            align-items: center;
-            gap: 12px;
-            opacity: 0;
-            transition: opacity 0.3s ease;
-            z-index: 20;
-            box-sizing: border-box;
-        `;
-        controls.innerHTML = `
-            <button class="ctrl-play-pause" style="background:none; border:none; color:white; font-size:20px; cursor:pointer;">⏸️</button>
-            <span class="ctrl-current-time" style="color:white; font-size:12px;">00:00</span>
-            <input type="range" class="ctrl-progress" value="0" min="0" max="100" step="0.1" style="flex:1; height:4px; -webkit-appearance:none; background:rgba(255,255,255,0.3); border-radius:2px;">
-            <span class="ctrl-duration" style="color:white; font-size:12px;">00:00</span>
-            <button class="ctrl-mute" style="background:none; border:none; color:white; font-size:18px; cursor:pointer;">🔊</button>
-            <button class="ctrl-fullscreen" style="background:none; border:none; color:white; font-size:18px; cursor:pointer;">⛶</button>
-        `;
-        container.appendChild(controls);
-    }
-
-    const playPauseBtn = controls.querySelector('.ctrl-play-pause');
-    const currentTimeSpan = controls.querySelector('.ctrl-current-time');
-    const progressBar = controls.querySelector('.ctrl-progress');
-    const durationSpan = controls.querySelector('.ctrl-duration');
-    const muteBtn = controls.querySelector('.ctrl-mute');
-    const fullscreenBtn = controls.querySelector('.ctrl-fullscreen');
-    let controlsTimeout;
-
-    function formatTime(seconds) {
-        if (isNaN(seconds)) return '00:00';
-        const mins = Math.floor(seconds / 60);
-        const secs = Math.floor(seconds % 60);
-        return `${mins.toString().padStart(2, '0')}:${secs.toString().padStart(2, '0')}`;
-    }
-
-    function updateProgress() {
-        if (video.duration) {
-            const percent = (video.currentTime / video.duration) * 100;
-            progressBar.value = percent;
-            progressBar.style.background = `linear-gradient(to right, #be185d ${percent}%, rgba(255,255,255,0.3) ${percent}%)`;
-            currentTimeSpan.innerText = formatTime(video.currentTime);
+if (p.contentURL.match(/\.mp4$/i)) {
+    // تشغيل MP4 مباشرة مع عناصر التحكم المخصصة أو البسيطة
+    vArea.innerHTML = `
+        <video style="width:100%; height:100%; object-fit:contain;" controls autoplay>
+            <source src="${p.contentURL}" type="video/mp4">
+        </video>
+    `;
+    return;
+}
+        if (isHardToEmbed(p.contentURL)) {
+            vArea.style.paddingBottom = '0';
+            vArea.innerHTML = `
+                <div style="text-align:center;padding:40px">
+                    <p>⚠️ لا يمكن عرض الفيديو داخل الموقع</p>
+                    <a href="${p.contentURL}" target="_blank">فتح في نافذة جديدة</a>
+                </div>
+            `;
+            // تحديث الاقتراحات
+            setTimeout(() => {
+                updateRecSuggestions();
+                updateSideSuggestions();
+                updatePlayerStats();
+                updateFooterStats();
+            }, 100);
+            return;
         }
+        vArea.innerHTML = `
+            <iframe style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" 
+                    src="${p.contentURL}" 
+                    allow="autoplay; fullscreen">
+            </iframe>
+        `;
+    } else if (p.type === 'image') {
+        // إزالة أي تنسيقات سابقة وإضافة كلاس image-mode لعرض الصور بشكل صحيح
+        vArea.style.paddingBottom = '0';
+        vArea.style.height = 'auto';
+        vArea.style.minHeight = 'auto';
+        vArea.classList.add('image-mode'); // إضافة الكلاس الخاص بالصور
+        
+        vArea.innerHTML = `
+            <div style="display: flex; align-items: center; justify-content: center; width: 100%; height: 100%; background: black;">
+                <img src="${p.contentURL}" 
+                     style="max-width: 100%; max-height: 85vh; width: auto; height: auto; object-fit: contain; display: block; margin: 0 auto; border-radius: 12px;"
+                     alt="${p.title}"
+                     onload="this.parentElement.parentElement.style.paddingBottom = '0'; this.parentElement.parentElement.style.height = 'auto';">
+            </div>
+        `;
     }
-
-    function showControls() {
-        controls.style.opacity = '1';
-        clearTimeout(controlsTimeout);
-        controlsTimeout = setTimeout(() => {
-            if (!container.matches(':hover') && !controls.matches(':hover')) controls.style.opacity = '0';
-        }, 2000);
-    }
-
-    video.addEventListener('loadedmetadata', () => {
-        durationSpan.innerText = formatTime(video.duration);
-        progressBar.max = 100;
-        updateProgress();
-    });
-    video.addEventListener('timeupdate', updateProgress);
-    video.addEventListener('play', () => { playPauseBtn.innerText = '⏸️'; showControls(); });
-    video.addEventListener('pause', () => { playPauseBtn.innerText = '▶️'; showControls(); });
-    video.addEventListener('click', () => { video.paused ? video.play() : video.pause(); showControls(); });
-
-    playPauseBtn.addEventListener('click', (e) => { e.stopPropagation(); video.paused ? video.play() : video.pause(); showControls(); });
-    progressBar.addEventListener('input', (e) => { video.currentTime = (e.target.value / 100) * video.duration; updateProgress(); showControls(); });
-    muteBtn.addEventListener('click', (e) => { e.stopPropagation(); video.muted = !video.muted; muteBtn.innerText = video.muted ? '🔇' : '🔊'; showControls(); });
-    fullscreenBtn.addEventListener('click', (e) => { e.stopPropagation(); if (!document.fullscreenElement) container.requestFullscreen(); else document.exitFullscreen(); showControls(); });
-
-    let lastTap = 0;
-    video.addEventListener('click', (e) => {
-        const now = Date.now();
-        if (now - lastTap < 300) {
-            e.preventDefault();
-            const rect = video.getBoundingClientRect();
-            const isLeft = (e.clientX - rect.left) < rect.width / 2;
-            let newTime = video.currentTime + (isLeft ? -10 : 10);
-            newTime = Math.min(Math.max(newTime, 0), video.duration);
-            video.currentTime = newTime;
-            let msg = container.querySelector('.seek-message') || (() => { let d = document.createElement('div'); d.className = 'seek-message'; d.style.cssText = 'position:absolute;bottom:20%;left:50%;transform:translateX(-50%);background:rgba(0,0,0,0.8);color:white;padding:8px 16px;border-radius:30px;font-size:16px;z-index:30;pointer-events:none;opacity:0;white-space:nowrap;'; container.appendChild(d); return d; })();
-            msg.innerText = (isLeft ? '-10' : '+10') + ' ثانية';
-            msg.style.opacity = '1';
-            setTimeout(() => msg.style.opacity = '0', 800);
-        }
-        lastTap = now;
-    });
-
-    container.addEventListener('mousemove', showControls);
-    container.addEventListener('touchstart', showControls);
-    container.addEventListener('mouseleave', () => { clearTimeout(controlsTimeout); controls.style.opacity = '0'; });
-    video.play().catch(e => console.log('autoplay blocked'));
-    showControls();
+    else if (p.type === 'gif') {
+    vArea.style.paddingBottom = '0';
+    vArea.style.height = 'auto';
+    vArea.classList.add('image-mode');
+    vArea.innerHTML = `
+        <div style="display: flex; align-items: center; justify-content: center; width: 100%; height: 100%; background: black;">
+            <img src="${p.image}" 
+                 style="max-width: 100%; max-height: 85vh; width: auto; height: auto; object-fit: contain; display: block; margin: 0 auto; border-radius: 12px;"
+                 alt="${p.title}">
+        </div>
+    `;
+}
+    // بعد كل الشروط وقبل إغلاق الدالة
+setTimeout(() => {
+    updateRecSuggestions();
+    updateSideSuggestions();
+    updatePlayerStats();
+    updateFooterStats();
+}, 150);
 }
 function restoreFinalState() {
     try {
